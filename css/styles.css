@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+    padding: 10px;
+}
+.blanco {
+    background-color: rgb(255, 255, 255);
+}
+.rojo {
+    background-color: brown;
+}
+
+.logodecocacola {
+    border: 2px rgb(208, 68, 22) solid;
+    padding: 5px;
+    margin-top: 5px;
+    
+}
+
+.botones {
+    border: 2px rgb(255, 255, 255) solid;
+    margin-top: 10px;
+    padding: 5px;
+
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+  
+    
+}
+h2 {
+    color: black;
+    text-align: center;
+    font-size: 50px;
+}
+h3 {
+    color: black;
+}
+h4 {
+    color: white;
+}
+.botella{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+} 
+.texto {
+    text-align: center;
+    font-size: 30px;
+}
+.redes {
+    border: 2px rgb(255, 255, 255) solid;
+    border-left: none;
+}
